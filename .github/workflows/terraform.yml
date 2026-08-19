@@ -16,7 +16,7 @@ jobs:
     defaults:
       run:
         working-directory: azurerm_resource_group
-#comment1
+
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
